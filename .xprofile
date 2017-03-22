@@ -1,0 +1,8 @@
+synclient ClickFinger3=0
+synclient TapButton3=0
+#touch ~/Desktop/thisfileran
+file="~/Desktop/ilid_is_closed"
+if [ -f $file ] ; then
+	rm $file
+fi
+touchegg &
