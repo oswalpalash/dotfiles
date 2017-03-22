@@ -15,3 +15,4 @@ set expandtab
 
 " Show matching [] and {}
 set showmatch
+set mouse+=a
